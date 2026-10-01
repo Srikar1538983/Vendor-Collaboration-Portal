@@ -19,15 +19,11 @@ packages/
 *.tmp
 *.temp
 
-# Visual Studio cache
+# VS Code
 .vscode/
 
-# Publish output
+# Publish
 publish/
-
-# Local configuration / secrets
-*.local.json
-*.local.json.user
 
 # OS files
 Thumbs.db
